@@ -2,7 +2,7 @@
 //  ThirdViewController.swift
 //  DataPassExamples
 //
-//  Created by Polosoft on 08/03/18.
+//  Created by Sumit kumar khamari on 08/03/18.
 //  Copyright © 2018 Sumit kumar khamari. All rights reserved.
 //
 
